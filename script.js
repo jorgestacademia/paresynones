@@ -1,3 +1,7 @@
+
+function paresynones(){
+
+
 document.write('Vamos a jugar a pares y nones. El jugador 1 siempre elige nones y el jugador 2 siempre elige pares');
 var jugador1;
 var jugador2;
@@ -23,3 +27,4 @@ if(suma%2===0){
 }else{
     document.write('Enhorabuena jugador 2 has ganado')
 }
+    }
